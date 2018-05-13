@@ -1,0 +1,15 @@
+{
+  "name": "bwilliams159257-nginx",
+  "version": "0.1.0",
+  "author": "bwilliams159257",
+  "summary": "This module is going to manage nginx",
+  "license": "Apache-2.0",
+  "source": "git@github.com:bwilliams159357/puppet-nginx.git",
+  "project_page": "https://github.com/bwilliams159357/puppet-nginx",
+  "issues_url": "https://github.com/bwilliams159357/puppet-nginx/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
